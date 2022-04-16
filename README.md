@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="t.me/vanyakopylovv">
+  <a href="https://t.me/vanyakopylovv">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -18,7 +18,7 @@
 - :telescope: I'm learning Java and Spring and contributing to the development of the backend.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I study algorithms and read technical articles.
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/vanyakopylovv)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vanyakopylovv)
 
 ---
 
