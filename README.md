@@ -36,4 +36,4 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ivkopylovv&theme=light&background=light)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivkopylovv&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivkopylovv&theme=light&background=light)](https://github.com/anuraghazra/github-readme-stats)
