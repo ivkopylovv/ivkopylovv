@@ -15,7 +15,7 @@
  
  ### :man_technologist: About Me :
  I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia/Ryazan.
-- :telescope: I'm learning Java and Spring and contributing to the back-end development of my local projects.
+- :telescope: I'm learning Java and Spring and contributing to the backend development of my local projects.
 - :zap: In my free time, I study algorithms and read technical articles.
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vanyakopylovv)
 
@@ -35,5 +35,5 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ivkopylovv&theme=light&background=light)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivkopylovv&theme=light&background=light)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ivkopylovv&theme=dark&background=dark)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivkopylovv&theme=dark&background=dark)](https://github.com/anuraghazra/github-readme-stats)
