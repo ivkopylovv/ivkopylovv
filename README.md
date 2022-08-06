@@ -2,7 +2,7 @@
  I'm a backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia/Ryazan.
 - :telescope: I'm learning Java and Spring and contributing to the backend development of my projects.
 - :cactus: In my free time, I study algorithms and read technical articles.
-- :page_facing_up: Know about my experiences: [Resume](https://drive.google.com/file/d/1AzFUioVmTQW-izWSLhrXZtMUQWeFz0uP/view?usp=sharing)
+- :page_facing_up: Know about my experiences: [Resume](https://drive.google.com/file/d/1qxBIWeBfulDi97IRD_GWCYEXzVM98zcd/view?usp=sharing)
 - :incoming_envelope: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vanyakopylovv) 
 
 ---
